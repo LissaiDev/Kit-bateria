@@ -5,7 +5,7 @@ Este projeto tem como objetivo replicar um kit de bateria usando as linguagens d
 ## Instalação
 
 1. Faça o download ou clone o projeto para o seu ambiente de desenvolvimento.
-git clone https://github.com/seu-usuario/kit-bateria.git
+git clone https://github.com/LissaiDev/kit-bateria.git
 
 2. Navegue até a pasta do projeto.
 
